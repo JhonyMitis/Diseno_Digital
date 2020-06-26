@@ -7,7 +7,7 @@ La configuración de los periféricos se hace de la siguiente manera.
 
 ## Habilitar AHB2ENR
 Se configura la el reloj para el GPIOA así:
-![Diseno_Digital](ARRAN.png)
+![ARRAN](ARRAN.PNG)
 https://raw.githubusercontent.com/Jhonymitis/Diseni_Digital/master/ARRAN
 
 
