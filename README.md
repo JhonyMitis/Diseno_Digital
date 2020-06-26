@@ -28,3 +28,11 @@ Ahora se procede a configurar el reloj del timmer 2
 Ahora se activa SYSCFG clock para los perifiercos del sistema 
 ![APB2ENR](APB2ENR.PNG)
 
+## Definir Preescaler
+En este registro se almacnea el preescalador del reloj
+![ESCALER](ESCALER.PNG)
+
+## Definir el periodo
+Este registro almacena la información del la duración del periodo del pulso.
+![ARRAN](ARRAN.PNG)
+
