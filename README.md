@@ -12,19 +12,18 @@ Se configura la el reloj para el GPIOA así:
 
 ## GPIOx_MODER
 Ahora se configura que pin se va a escoger del GPIOA en este caso el pin 5
-imagen
-
+![GPIO_MODER](GPIO_MODER.PNG)
 
 
 ## GPIOx_ODR
 Se configura el pin 5 como salida.
-
+![GPIO_ODER](GPIO_ODER.PNG)
 
 ## Habilitar APB1ENR1
 Ahora se procede a configurar el reloj del timmer 2
-
+![PB1ENR1](PB1ENR1.PNG)
 
 ## Habilitar APB1ENR2
 Ahora se activa SYSCFG clock para los perifiercos del sistema 
-
+![PB1ENR2](PB1ENR2.PNG)
 
