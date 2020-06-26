@@ -26,5 +26,5 @@ Ahora se procede a configurar el reloj del timmer 2
 
 ## Habilitar APB2ENR
 Ahora se activa SYSCFG clock para los perifiercos del sistema 
-![APB2ENR](PB2ENR.PNG)
+![APB2ENR](APB2ENR.PNG)
 
