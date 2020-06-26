@@ -36,3 +36,18 @@ En este registro se almacnea el preescalador del reloj
 Este registro almacena la información del la duración del periodo del pulso.
 ![ARRAN](ARRAN.PNG)
 
+## Definir el timmer como interrupción de prioridad 1
+
+_NVIC_SetPriority(TIM2_IRQn, 1);_
+
+## Activar interrupcion del timmer
+
+_NVIC_EnableIRQ(TIM2_IRQn);_
+
+
+## Tarea
+
+Configurar un otro timmer para alternar la interrupcion entre encendido y apagado con distinta duración
+
+
+
